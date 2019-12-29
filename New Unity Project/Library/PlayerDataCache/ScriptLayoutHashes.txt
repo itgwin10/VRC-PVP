@@ -1,0 +1,10 @@
+WindowsStandalone
+PlayerPath?
+C:/Users/KoolK/AppData/Local/Temp/DefaultCompany/New Unity Project/customscene.vrcw
+SceneListBegin?
+Assets/my test world.unity
+SceneListEnd?
+ed2f55581dee6a32311eddab9a27bfcd VRCCore-Editor.dll:VRC.Core.PipelineManager
+dd4582ab16c2ebfa17d39efd5d1460d2 VRCSDK2.dll:VRCSDK2.VRC_EventHandler
+61a77f557ee61f775cf2c4a62311536b VRCSDK2.dll:VRCSDK2.VRC_PlayerMods
+392c390fc6ce2a337399dbaf1b22e37a VRCSDK2.dll:VRCSDK2.VRC_SceneDescriptor
